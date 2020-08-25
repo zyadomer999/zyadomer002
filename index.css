@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+video {
+  width: 100%;
+}
+
+body {
+  position: relative;
+  background-color: black;
+}
+
+h1 {
+  display: inline-block;
+  background-color: black;
+  color: azure;
+  padding: 20px;
+  cursor: pointer;
+}
